@@ -15,7 +15,7 @@ serving your { Personal } website for the first time.
 <pre><code data-trim class="yaml">
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://panossakkos.github.io"
+url: "https://hfenton.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -63,9 +63,9 @@ force-https: True
 
 <pre><code data-trim class="yaml">
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+author: "Heather Fenton"
+title: "{ Heather Fenton }"
+description: "Blog and website of Heather Fenton, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"

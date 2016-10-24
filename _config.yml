@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://panossakkos.github.io"
+url: "https://hfenton.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +12,7 @@ url: "https://panossakkos.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: "/personal-jekyll-theme"
 
 # Google tracking id
 
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Heather Fenton"
+title: "{ Heather Fenton }"
+description: "Blog and website of Heather Fenton, blogging mainly for tech. Opinions expressed are mine."
+keywords: "fenton, heather, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -100,8 +100,9 @@ google-plus-share: True
 tumblr-share: True
 pinterest-share: True
 pocket-share: True
-vkontakte-share: True
+# vkontakte-share: True
 
+# TODO: setup disqus-shortname
 disqus-shortname: "panossakkos"
 
 syntax-highlight: True
@@ -126,7 +127,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "info@heatherfenton.com"
 
 ################
 # Author Blurb #
@@ -136,7 +137,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Heather Fenton is an awesome person. She lives in North East Ohio, where she works on two-dimensional engineering projects. In her spare time, Heather likes to play pool."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -147,11 +148,11 @@ social:
   - title: "facebook"
     url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/heathersilc"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/hfenton"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/heather-fenton-53361b13"
   - title: "rss"
     url: "/feed.xml"
 
@@ -165,9 +166,9 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-username:
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
