@@ -103,7 +103,7 @@ pocket-share: True
 # vkontakte-share: True
 
 # TODO: setup disqus-shortname
-disqus-shortname: "panossakkos"
+disqus-shortname: "heatherfenton"
 
 syntax-highlight: True
 
@@ -145,8 +145,6 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
   - title: "twitter"
     url: "https://twitter.com/heathersilc"
   - title: "github"
